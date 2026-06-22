@@ -4,9 +4,13 @@ Como projeto prático final desenvolvi um automação prática utilizando concei
 
 Stack de Tecnologias utilizadas no projeto:
 
-n8n - Plataforma de automatização visual para criar fluxos de trabalho com agentes de IA
-railway - para hospedar o banco de dados MySql
+n8n - Plataforma de automatização visual para criar fluxos de trabalho com agentes de IA.
+
+railway - para hospedar o banco de dados MySql.
+
 Cohere -  plataforma de inteligência artificial. 
+
 Especializada em busca semântica(RAG) e analise de texto com a alta privacidade de dados.
+
 Telegram - Aplicação de mensageira multiplataforma com forte enfoque em privacidade e na automatização.
 
